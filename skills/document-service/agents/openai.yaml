@@ -1,0 +1,6 @@
+interface:
+  display_name: "Document Service"
+  short_description: "Document service responsibilities and interfaces"
+  default_prompt: "Use $document-service to document this service for onboarding and maintenance."
+policy:
+  allow_implicit_invocation: true

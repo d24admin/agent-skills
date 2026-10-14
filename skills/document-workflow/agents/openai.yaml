@@ -1,0 +1,6 @@
+interface:
+  display_name: "Document Workflow"
+  short_description: "Trace and document one runtime workflow"
+  default_prompt: "Use $document-workflow to trace and document this workflow from source evidence."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Clarify Requirements"
+  short_description: "Resolve consequential gaps in a feature request"
+  default_prompt: "Use $clarify-requirements to resolve the important gaps in this feature request."
+policy:
+  allow_implicit_invocation: true

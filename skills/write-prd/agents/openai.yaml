@@ -1,0 +1,6 @@
+interface:
+  display_name: "Write PRD"
+  short_description: "Turn product intent into a concise usable PRD"
+  default_prompt: "Use $write-prd to write a concise PRD with observable acceptance criteria."
+policy:
+  allow_implicit_invocation: true
